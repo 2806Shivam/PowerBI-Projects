@@ -8,3 +8,7 @@ https://app.powerbi.com/groups/me/reports/8f562fd4-d457-454c-b9e9-d2ff604be6b2/4
 
 
 <img width="190" height="217" alt="PowerBI Project-9626" src="https://github.com/user-attachments/assets/b963af42-a309-4333-9f79-ec2866519d4c" />
+
+
+
+These Projects were made during my Internship at Coder Technologies
